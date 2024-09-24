@@ -14,7 +14,7 @@ Este projeto é um sistema simples desenvolvido em Java para o mercado do condom
 
 - **Linguagem:** Java
 - **Interface:** Swing
-- **Ambiente de Desenvolvimento:** [IDE de sua escolha, como IntelliJ IDEA, Eclipse ou NetBeans]
+- **Ambiente de Desenvolvimento:** [VSCode]
 
 ## Como iniciar o sistema?
 Execute o CadastroProdutosApp.java
